@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_key_user_id">pref_key_user_id</string>
+    <string name="pref_key_user_name">pref_key_user_name</string>
+    
+</resources>

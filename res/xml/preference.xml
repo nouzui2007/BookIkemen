@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="ユーザ情報">
+        <EditTextPreference android:summary="ユーザID" android:key="@string/pref_key_user_id" android:title="ユーザID"/>
+        <EditTextPreference android:title="ユーザ名" android:key="@string/pref_key_user_name" android:summary="ユーザ名"/>
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>
